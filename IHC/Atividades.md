@@ -1,3 +1,2 @@
 # Atividades práticas:
-[ ]Opa
-
+```Opa ```
