@@ -13,4 +13,4 @@
 ## Ponto Positivo:
 * Em geral, pode-se destacar que é intuitivo de usar e navegar entre suas páginas.
 ## Ponto Negativo:
-* Por se tratar de um site contendo textos extensos, a presença de links promove uma poluição visual e talvez uma confusão por parte do usuário, além de
+* Por se tratar de um site contendo textos extensos, a presença de muitos links promovem uma poluição visual (por conta da variação de cores) e podendo causar uma confusão por parte do usuário.
