@@ -3,7 +3,7 @@
 * [Enzo Gurgel](https://github.com/enzogurgel);
 * [Hiram Pessoa](https://github.com/hiramcarneiro-cmd).
 ## 2. Interface Analisada:
-* [Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) (Página Inicial)
+* [Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) (Página Inicial) ![LogoWiki](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8At4k8RbojK_M0DcwDmmBSsj8efbvaIxZtEi90qO2qg&s=10)
 ## 3. Analise:
 * Em relação a interface e interação, é possível observar que é uma interface de intuitiva interação. Com isso, determina-se que seus elementos de entrada são principalmente múltiplos textos e imagens com links que redirecionam para suas respectivas páginas;
 * Em geral, é de simples usabilidade visto que está claro suas funções de navegação e de pesquisa, que raramente permitem erros ou confusões do usuário;
