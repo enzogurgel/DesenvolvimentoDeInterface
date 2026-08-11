@@ -1,7 +1,7 @@
 # Atividades práticas:
 ## 1. Integrantes do Grupo: 
-* Enzo Gurgel;
-* Hiram Pessoa.
+* [Enzo Gurgel](https://github.com/enzogurgel);
+* [Hiram Pessoa](https://github.com/hiramcarneiro-cmd).
 ## 2. Interface Analisada:
 * [Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) (Página Inicial)
 ## 3. Analise:
