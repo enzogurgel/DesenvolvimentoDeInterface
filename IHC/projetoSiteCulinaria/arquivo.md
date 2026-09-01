@@ -7,6 +7,8 @@ Gurgel](https://github.com/enzogurgel);
 Pessoa](https://github.com/hiramcarneiro-cmd);
  * [Miguel Silva](https://github.com/miguelss-s)
  * [César Augusto](https://github.com/cesargehre).
+## Site Analisado:
+* [Tudo Gostoso](https://www.tudogostoso.com.br/)
 ## Entregáveis:
 * **Retomem o Problema**:
   1. **Qual é a falha, dificuldade ou oportunidade identificada?**<br>
