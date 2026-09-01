@@ -10,7 +10,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
 ## Site Analisado:
 * [Tudo Gostoso](https://www.tudogostoso.com.br/)
 ## Entregáveis:
-* **Retomem o Problema**:
+* **Retomem o Problema:**
   1. **Qual é a falha, dificuldade ou oportunidade identificada?**<br>
      **R:** Os principais problemas são o excesso de anúncios e a má organização dos textos, mas as oportunidades são corrigir produto de arquitetura de informação, arrumar layout do site e o mau posicionamento dos anúncios e possibilitar o envio de fotos como feedback para a receita.<br>
   2. **Quem é o usuário?**<br>
@@ -23,6 +23,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
      **R:** Os usuários podem perder informações importantes durante o preparo, como tempo de preparo, temperatura, ingredientes e quantidades.<br>
   6. **O que deveria melhorar na experiência?**<br>
      **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br>
+* **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?
 
      
   
