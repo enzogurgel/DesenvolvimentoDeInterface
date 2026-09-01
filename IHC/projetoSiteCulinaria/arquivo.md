@@ -3,8 +3,8 @@
 * [Enzo 
 Gurgel](https://github.com/enzogurgel);
 * Ronald Neto;
-* Hiram
-Pessoa;
+* [Hiram
+Pessoa](https://github.com/hiramcarneiro-cmd);
 * Miguel
  Silva;
 * César Augusto.
