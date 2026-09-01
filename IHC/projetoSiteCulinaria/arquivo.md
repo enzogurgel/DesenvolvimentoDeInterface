@@ -1,7 +1,7 @@
 # Projeto de UX/UI - Desenvolvimento de Interfaces 
 ## Grupo: 
-* Enzo 
-Gurgel;
+* [Enzo 
+Gurgel](https://github.com/enzogurgel);
 * Ronald Neto;
 * Hiram
 Pessoa;
