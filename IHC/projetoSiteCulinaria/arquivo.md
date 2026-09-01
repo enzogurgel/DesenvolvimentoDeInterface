@@ -24,7 +24,24 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
   6. **O que deveria melhorar na experiência?**<br>
      **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br>
 * **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?
-
+* **Brainstrom:**
+    1. **Ideias do Enzo:**
+       * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso; 
+    3. **Ideias do César:**
+       * Colocar vídeos ensinando a fazer as receitas com cozinheiros específicos do site;
+       * Auxílio para pessoas com deficiência visual
+    5. **Ideias do Hiram:**
+       * Desbloqueio de receitas por tempo dentro do site.
+       * Áreas de informações separadas por título ex:(ingredientes, tempos, preparação,etc);
+       * Menu de selecionar seção da receita;
+       * Área kids meal (área focada em alimentos infantis, adiciona ela no menu);
+       * Área social onde você ganha pontos por participação e fotos contam ponto extra;
+       * Alteração de posicionamento dos anúncios;
+       * Alterar o formato dos textos (aumentar eles para melhor visualização). 
+    7. **Ideias do Ronald:**
+       *
+    9. **Ideias do Miguel:** 
+       *
      
   
 
