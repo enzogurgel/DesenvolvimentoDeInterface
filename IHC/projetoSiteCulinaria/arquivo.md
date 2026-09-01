@@ -20,9 +20,9 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
   4. **Qual é a principal dor identificada na jornada?**<br>
      **R:** A principal dor é a poluição visual, que distrai e incomoda os usuários, além de aumentar o risco de cliques acidentais nos anúncios, especialmente para usuários com tremores.<br>
   5. **Em qual momento essa dor acontece?**<br>
-     **R:** <br>
+     **R:** Os usuários podem perder informações importantes durante o preparo, como tempo de preparo, temperatura, ingredientes e quantidades.<br>
   6. **O que deveria melhorar na experiência?**<br>
-     **R:** <br>
+     **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br>
 
      
   
