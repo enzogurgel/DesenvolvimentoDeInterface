@@ -7,7 +7,7 @@ Gurgel](https://github.com/enzogurgel);
 Pessoa](https://github.com/hiramcarneiro-cmd);
 * Miguel
  Silva;
-* César Augusto.
+* César Augusto(https://github.com/cesargehre).
   ## Entregáveis:
   
 
