@@ -9,15 +9,19 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
  Silva;
  * [César Augusto](https://github.com/cesargehre).
 ## Entregáveis:
-* Retomem o Problema:
-  1. Qual é a falha, dificuldade ou oportunidade identificada?
-     R: Os principais problemas são o excesso de anúncios e a má organização dos textos, mas as oportunidades são corrigir produto de arquitetura de informação, arrumar layout do site e o mau posicionamento dos anúncios e possibilitar o envio de fotos como feedback para a receita.
-  2. Quem é o usuário?
-     R: 
-  4. Qual é a principal necessidade deste usuário?
-  5. Qual é a principal dor identificada na jornada?
-  6. Em qual momento essa dor acontece?
-  7. O que deveria melhorar na experiência? 
+* **Retomem o Problema**:
+  1. Qual é a falha, dificuldade ou oportunidade identificada?<br>
+     **R:** Os principais problemas são o excesso de anúncios e a má organização dos textos, mas as oportunidades são corrigir produto de arquitetura de informação, arrumar layout do site e o mau posicionamento dos anúncios e possibilitar o envio de fotos como feedback para a receita.
+  2. Quem é o usuário?<br>
+     **R:** Em suma, a persona do usuário do site "Tudo Gostoso" são pessoas idosas. 
+  3. Qual é a principal necessidade deste usuário?
+     **R:**
+  4. Qual é a principal dor identificada na jornada?
+     **R:** 
+  5. Em qual momento essa dor acontece?
+     **R:**
+  6. O que deveria melhorar na experiência?
+     **R:** 
 
      
   
