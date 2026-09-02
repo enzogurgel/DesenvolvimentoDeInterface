@@ -24,7 +24,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
   6. **O que deveria melhorar na experiência?**<br>
      **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br>
 * **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?
-* **Brainstrom:**
+* **Brainstorm:**
     1. **Ideias do Enzo:**
        * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso; 
     3. **Ideias do César:**
@@ -42,7 +42,11 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
        *
     9. **Ideias do Miguel:** 
        *
+* **Organizando as Ideias:**
+  **1. Monetização:**
+  2.  
      
+
   
 
 
