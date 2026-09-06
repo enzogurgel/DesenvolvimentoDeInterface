@@ -86,7 +86,11 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         * **Benefício para o usuário:** Experiência mais limpa, personalizada e confortável.
         * **Principais funcionalidades:** Assinatura VIP, remoção de anúncios, receitas exclusivas, alteração do posicionamento dos anúncios, vídeos com cozinheiros, recursos de acessibilidade e organização das receitas.
         * **Possíveis limitações:** Parte dos recursos fica condicionada à assinatura; pode reduzir o número de usuários dispostos a pagar.
-             
+
+
+| Critério | Ideia 1 | Ideia 2 | Ideia 3 |
+| --- | --- | --- | --- |
+|Resolve o problema identificado| 5 | 5 | 4 |
 
   
 
