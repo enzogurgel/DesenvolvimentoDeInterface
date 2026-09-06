@@ -22,8 +22,8 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
   5. **Em qual momento essa dor acontece?**<br>
      **R:** Os usuários podem perder informações importantes durante o preparo, como tempo de preparo, temperatura, ingredientes e quantidades.<br>
   6. **O que deveria melhorar na experiência?**<br>
-     **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br>
-* **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?
+     **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br><br>
+* **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?<br><br>
 * **Brainstorm:**
     1. **Ideias do Enzo:**
        * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso; 
@@ -42,6 +42,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
        *
     5. **Ideias do Miguel:** 
        *
+       <br><br>
 * **Organizando as Ideias:** <br>
     1. **Monetização:**<br>
         * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso;
@@ -58,7 +59,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         * Ter a opção de mandar a imagem com review do produto.
     5. **Navegação e Organização:**<br>
         * Áreas de informações separadas por título ex:(ingredientes, tempos, preparação,etc);
-        * Menu de selecionar seção da receita.
+        * Menu de selecionar seção da receita. <br><br>
     
      
 
