@@ -27,10 +27,10 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
 * **Brainstorm:**
     1. **Ideias do Enzo:**
        * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso; 
-    3. **Ideias do César:**
+    2. **Ideias do César:**
        * Colocar vídeos ensinando a fazer as receitas com cozinheiros específicos do site;
        * Auxílio para pessoas com deficiência visual
-    5. **Ideias do Hiram:**
+    3. **Ideias do Hiram:**
        * Desbloqueio de receitas por tempo dentro do site.
        * Áreas de informações separadas por título ex:(ingredientes, tempos, preparação,etc);
        * Menu de selecionar seção da receita;
@@ -38,13 +38,17 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
        * Área social onde você ganha pontos por participação e fotos contam ponto extra;
        * Alteração de posicionamento dos anúncios;
        * Alterar o formato dos textos (aumentar eles para melhor visualização). 
-    7. **Ideias do Ronald:**
+    4. **Ideias do Ronald:**
        *
-    9. **Ideias do Miguel:** 
+    5. **Ideias do Miguel:** 
        *
-* **Organizando as Ideias:**
-  **1. Monetização:**
-  2.  
+* **Organizando as Ideias:** <br>
+    1. **Monetização:**<br>
+    2. **Conteúdo:**<br>
+    3. **Acessibilidade:**<br>
+    4. **Interação Social:**<br>
+    5. **Navegação e Organização:**<br>
+    
      
 
   
