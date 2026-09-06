@@ -25,6 +25,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
      **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br><br>
 * **Personas:**<br>
     1. Marina Sousa Cortez, 25 anos — A Jovem Conectada pelo Celular<br>
+    
         * **Perfil:** Não usa óculos. Cozinha acompanhando as receitas diretamente pela tela do celular apoiado na bancada da cozinha.<br>
         * **Objetivo:** Encontrar receitas de forma rápida e conseguir visualizar ingredientes e modo de preparo no celular sem precisar ficar pegando o aparelho com a mão suja.<br>
         * **Desafio:** A tela do celular é pequena, e o excesso de anúncios e layout poluído fazem com que ela perca o ponto da receita ou clique acidentalmente em banners enquanto apoia o aparelho na mesa.<br>
