@@ -78,8 +78,15 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         * **Principais funcionalidades:** Avaliações, envio de fotos, sistema de pontos, vídeos, receitas organizadas e área kids.
         * **Possíveis limitações:** Necessidade de moderar conteúdos publicados pelos usuários e manter a comunidade ativa. <br><br>
     
-    3. 
-     
+    3. **IDEIA 3 — Receita Fácil Premium:**<br>
+        * **Nome da solução:** Receita Fácil Premium
+        * **Descrição:** Versão premium do site com experiência personalizada, acessível e com menos anúncios.
+        * **Como funciona?** O usuário pode assinar um plano mensal ou anual para remover anúncios e desbloquear receitas e recursos exclusivos.
+        * **Qual dor da jornada resolve?** Excesso de anúncios e dificuldade de acessar conteúdos específicos durante o preparo.
+        * **Benefício para o usuário:** Experiência mais limpa, personalizada e confortável.
+        * **Principais funcionalidades:** Assinatura VIP, remoção de anúncios, receitas exclusivas, alteração do posicionamento dos anúncios, vídeos com cozinheiros, recursos de acessibilidade e organização das receitas.
+        * **Possíveis limitações:** Parte dos recursos fica condicionada à assinatura; pode reduzir o número de usuários dispostos a pagar.
+             
 
   
 
