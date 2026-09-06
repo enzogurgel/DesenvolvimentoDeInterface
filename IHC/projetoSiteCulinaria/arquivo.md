@@ -85,19 +85,21 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         * **Qual dor da jornada resolve?** Excesso de anúncios e dificuldade de acessar conteúdos específicos durante o preparo.
         * **Benefício para o usuário:** Experiência mais limpa, personalizada e confortável.
         * **Principais funcionalidades:** Assinatura VIP, remoção de anúncios, receitas exclusivas, alteração do posicionamento dos anúncios, vídeos com cozinheiros, recursos de acessibilidade e organização das receitas.
-        * **Possíveis limitações:** Parte dos recursos fica condicionada à assinatura; pode reduzir o número de usuários dispostos a pagar.
+        * **Possíveis limitações:** Parte dos recursos fica condicionada à assinatura; pode reduzir o número de usuários dispostos a pagar.<br><br>
+* **Pontuando as Ideias:** <br>
+ - Pontuação de 1 a 5 <br>
 
-
-| Critério | Ideia 1 | Ideia 2 | Ideia 3 |
-| --- | --- | --- | --- |
-| Resolve o problema identificado | 5 | 5 | 4 |
-| Atende às necessidades da pessoa | 5 | 5 | 5 |
-| Melhora a Jornada do Usuário | 5 | 5 | 5 |
-| Facilidade de uso | 5 | 4 | 4 |
-| Viabilidade de implementação | 5 | 4 | 3 |
-| Potencial de inovação | 3 | 5 | 5 |
-| Valor gerado para o usuário | 4 | 5 | 5 |
-| **TOTAL** | **32** | **33** | **31** |
+ 
+      | Critério | Ideia 1 | Ideia 2 | Ideia 3 |
+      | --- | --- | --- | --- |
+      | Resolve o problema identificado | 5 | 5 | 4 |
+      | Atende às necessidades da pessoa | 5 | 5 | 5 |
+      | Melhora a Jornada do Usuário | 5 | 5 | 5 |
+      | Facilidade de uso | 5 | 4 | 4 |
+      | Viabilidade de implementação | 5 | 4 | 3 |
+      | Potencial de inovação | 3 | 5 | 5 |
+      | Valor gerado para o usuário | 4 | 5 | 5 |
+      | **TOTAL** | **32** | **33** | **31** |
 
   
 
