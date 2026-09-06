@@ -90,7 +90,14 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
 
 | Critério | Ideia 1 | Ideia 2 | Ideia 3 |
 | --- | --- | --- | --- |
-|Resolve o problema identificado| 5 | 5 | 4 |
+| Resolve o problema identificado | 5 | 5 | 4 |
+| Atende às necessidades da pessoa | 5 | 5 | 5 |
+| Melhora a Jornada do Usuário | 5 | 5 | 5 |
+| Facilidade de uso | 5 | 4 | 4 |
+| Viabilidade de implementação | 5 | 4 | 3 |
+| Potencial de inovação | 3 | 5 | 5 |
+| Valor gerado para o usuário | 4 | 5 | 5 |
+| **TOTAL** | **32** | **33** | **31** |
 
   
 
