@@ -60,7 +60,9 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
     5. **Navegação e Organização:**<br>
         * Áreas de informações separadas por título ex:(ingredientes, tempos, preparação,etc);
         * Menu de selecionar seção da receita. <br><br>
-    
+* **Filtrando as Ideias:** <br>
+    1. **Ideia 1 — Site de receitas personalizado:**<br>
+
      
 
   
