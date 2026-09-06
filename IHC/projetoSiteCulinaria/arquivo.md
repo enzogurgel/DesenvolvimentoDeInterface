@@ -23,6 +23,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
      **R:** Os usuários podem perder informações importantes durante o preparo, como tempo de preparo, temperatura, ingredientes e quantidades.<br>
   6. **O que deveria melhorar na experiência?**<br>
      **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br><br>
+* **Personas:**<br>
 * **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?<br><br>
 * **Brainstorm:**
     1. **Ideias do Enzo:**
