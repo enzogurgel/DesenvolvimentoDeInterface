@@ -123,7 +123,21 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         | Valor gerado para o usuário | 5 | 3 | 4 |
         | TOTAL | 33 | 22 | 27 |
 
-* **Ideia a ser escolher:**<br>
+* **Ideia a ser escolhida:**
+  * A ideia escolhida foi a **IDEIA 1**:
+    * **Problema:** Resolve diretamente a má organização do layout, a arquitetura de informação confusa e o mau posicionamento dos conteúdos no site.
+
+    * **Necessidades da persona:** Atende perfeitamente os idosos ao priorizar uma busca simples, leitura clara e navegação direta para encontrar e preparar pratos sem complicações.
+
+    * **Dores da jornada:** Elimina a perda de dados críticos (ingredientes, quantidades, tempo) no momento do preparo e reduz o risco de erros de navegação provocados por layouts poluídos ou instáveis para quem tem tremores nas mãos.
+
+    * **Benefícios:** Garante autonomia, praticidade e segurança ao cozinhar, permitindo que o usuário foque na receita de forma confortável.
+
+    * **Usabilidade:** Destaca-se por permitir a personalização do uso com recursos essenciais para idosos, como o aumento do tamanho dos textos, navegação por menu de etapas e vídeos passo a passo diretos.
+
+    * **Viabilidade:** É a solução mais viável de implementar (nota 5 na matriz), pois não exige moderação complexa de comunidade (como na Ideia 2) nem barreiras de pagamento/assinatura que afastariam o público (como na Ideia 3).
+
+    * **Diferencial da solução:** Entrega uma experiência limpa, funcional e altamente acessível, mantendo o foco total na clareza do passo a passo e no conforto visual e motor do usuário.
   
 
 
