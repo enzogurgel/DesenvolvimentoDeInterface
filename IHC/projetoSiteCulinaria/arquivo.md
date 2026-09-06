@@ -44,10 +44,21 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
        *
 * **Organizando as Ideias:** <br>
     1. **Monetização:**<br>
+        * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso;
+        * Desbloqueio de receitas por tempo dentro do site;
+        * Alteração de posicionamento dos anúncios.   
     2. **Conteúdo:**<br>
+        * Colocar vídeos ensinando a fazer as receitas com cozinheiros específicos do site;
+        * Área kids meal (área focada em alimentos infantis, adiciona ela no menu).
     3. **Acessibilidade:**<br>
+        * Auxílio para pessoas com deficiência visual;
+        * Alterar o formato dos textos (aumentar eles para melhor visualização).
     4. **Interação Social:**<br>
+        * Área social onde você ganha pontos por participação e fotos contam ponto extra;
+        * Ter a opção de mandar a imagem com review do produto.
     5. **Navegação e Organização:**<br>
+        * Áreas de informações separadas por título ex:(ingredientes, tempos, preparação,etc);
+        * Menu de selecionar seção da receita.
     
      
 
