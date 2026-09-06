@@ -112,17 +112,18 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
    - Pontuação de 1 a 5 <br>
 
  
-      | Critério | Ideia 1 | Ideia 2 | Ideia 3 |
-      | --- | --- | --- | --- |
-      | Resolve o problema identificado | 5 | 5 | 4 |
-      | Atende às necessidades da pessoa | 5 | 5 | 5 |
-      | Melhora a Jornada do Usuário | 5 | 5 | 5 |
-      | Facilidade de uso | 5 | 4 | 4 |
-      | Viabilidade de implementação | 5 | 4 | 3 |
-      | Potencial de inovação | 3 | 5 | 5 |
-      | Valor gerado para o usuário | 4 | 5 | 5 |
-      | **TOTAL** | **32** | **33** | **31** |
+        | Critério | Ideia 1 | Ideia 2 | Ideia 3 |
+        | --- | --- | --- | --- |
+        | Resolve o problema identificado | 5 | 3 | 4 |
+        | Atende às necessidades da pessoa | 5 | 3 | 4 |
+        | Melhora a Jornada do Usuário | 5 | 3 | 4 |
+        | Facilidade de uso | 5 | 2 | 4 |
+        | Viabilidade de implementação | 5 | 3 | 3 |
+        | Potencial de inovação | 3 | 5 | 4 |
+        | Valor gerado para o usuário | 5 | 3 | 4 |
+        | TOTAL | 33 | 22 | 27 |
 
+* **Ideia a ser escolher:**<br>
   
 
 
