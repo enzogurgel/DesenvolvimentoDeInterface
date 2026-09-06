@@ -61,8 +61,24 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         * Áreas de informações separadas por título ex:(ingredientes, tempos, preparação,etc);
         * Menu de selecionar seção da receita. <br><br>
 * **Filtrando as Ideias:** <br>
-    1. **Ideia 1 — Site de receitas personalizado:**<br>
-
+    1. **IDEIA 1 — Site de receitas personalizado:**<br>
+        * Nome da solução: Receita Fácil
+        * Descrição: Site de receitas organizado e personalizado para facilitar a busca e o preparo de pratos.
+        * Como funciona? O usuário escolhe uma receita e acessa ingredientes, tempo de preparo, modo de preparo e vídeos explicativos.
+        * Qual dor da jornada resolve? Dificuldade para encontrar receitas e entender o passo a passo.
+        * Benefício para o usuário: Mais facilidade, autonomia e praticidade ao cozinhar.
+        * Principais funcionalidades: Busca e organização por categorias, vídeos de receitas, menu de etapas, aumento do tamanho dos textos e área kids.
+        * Possíveis limitações: Produção de vídeos exige tempo e recursos; algumas funcionalidades podem depender de acessibilidade específica.<br><br>
+    2. **Ideia 2 — Receita Fácil + Comunidade:** <br>
+        * Nome da solução: Receita Fácil Social
+        * Descrição: Plataforma de receitas que combina conteúdo culinário com interação entre os usuários.
+        * Como funciona? Além de preparar receitas, o usuário pode publicar fotos, avaliar pratos e ganhar pontos por participação.
+        * Qual dor da jornada resolve? Falta de interação e de referências de outras pessoas ao escolher ou preparar uma receita.
+        * Benefício para o usuário: Maior motivação para cozinhar e possibilidade de trocar experiências.
+        * Principais funcionalidades: Avaliações, envio de fotos, sistema de pontos, vídeos, receitas organizadas e área kids.
+        * Possíveis limitações: Necessidade de moderar conteúdos publicados pelos usuários e manter a comunidade ativa.
+    
+    3. 
      
 
   
