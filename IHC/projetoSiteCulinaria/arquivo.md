@@ -24,8 +24,26 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
   6. **O que deveria melhorar na experiência?**<br>
      **R:** Melhorar a leitura e a visualização das receitas, textos, vídeos e anúncios, tornando a experiência do usuário mais clara e organizada.<br><br>
 * **Personas:**<br>
-* **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?<br><br>
-* **Brainstorm:**
+    1. Marina Sousa Cortez, 25 anos — A Jovem Conectada pelo Celular<br>
+        * **Perfil:** Não usa óculos. Cozinha acompanhando as receitas diretamente pela tela do celular apoiado na bancada da cozinha.<br>
+        * **Objetivo:** Encontrar receitas de forma rápida e conseguir visualizar ingredientes e modo de preparo no celular sem precisar ficar pegando o aparelho com a mão suja.<br>
+        * **Desafio:** A tela do celular é pequena, e o excesso de anúncios e layout poluído fazem com que ela perca o ponto da receita ou clique acidentalmente em banners enquanto apoia o aparelho na mesa.<br>
+        * **O que busca no site:** Layout responsivo focado em mobile, informações essenciais (tempo, porções, temperatura) bem visíveis no topo e campo para enviar foto de feedback do prato pronto.<br>
+    
+    2. Otávio Neto Rodrigues, 58 anos — O Cozinheiro Míope (Homem Mais Velho)<br>
+        * **Perfil:** Possui miopia e precisa de bastante clareza visual ao cozinhar para não errar medidas ou tempos de preparo.<br>
+        * **Objetivo:** Preparar pratos com facilidade e sem esforço visual, acompanhando o passo a passo sem distrações.<br>
+        * **Desafio:** Poluição visual, anúncios mal posicionados e letras pequenas ou mal organizadas que dificultam a leitura à distância enquanto está no fogão.<br>
+        * **O que busca no site:** Tipografia grande com alto contraste, arquitetura de informação limpa (sem anúncios cobrindo o texto) e destaques visuais para os passos da receita.<br>
+    
+    
+    3. Matheus Saldanha Rios, 34 anos — O Usuário de Computador
+        * **Perfil:** Não usa óculos e prefere planejar suas refeições ou cozinhar acompanhando tudo através de um notebook/computador na cozinha.
+        * **Objetivo:** Ler receitas em uma tela maior de forma fluida, acessar vídeos demonstrativos e compartilhar o resultado final.
+        * **Desafio:** Layouts desorganizados que espalham o conteúdo pela tela e anúncios invasivos que atrapalham a navegação no desktop.
+        * **O que busca no site:** Design bem estruturado em blocos para telas grandes, sem banners piscando nas laterais, e uma seção intuitiva para envio de fotos como feedback da receita.<br><br>
+    * **Pergunta de Ideação:** Como poderíamos melhorar a visualização do usuário sobre as receitas dentro do site?<br><br>
+    * **Brainstorm:**
     1. **Ideias do Enzo:**
        * Assinatura VIP mensal/anual que possibilita a retirada dos anúncios durante o uso; 
     2. **Ideias do César:**
