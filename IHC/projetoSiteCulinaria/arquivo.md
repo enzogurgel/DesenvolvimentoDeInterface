@@ -87,7 +87,7 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
         * **Principais funcionalidades:** Assinatura VIP, remoção de anúncios, receitas exclusivas, alteração do posicionamento dos anúncios, vídeos com cozinheiros, recursos de acessibilidade e organização das receitas.
         * **Possíveis limitações:** Parte dos recursos fica condicionada à assinatura; pode reduzir o número de usuários dispostos a pagar.<br><br>
 * **Pontuando as Ideias:** <br>
- - Pontuação de 1 a 5 <br>
+   - Pontuação de 1 a 5 <br>
 
  
       | Critério | Ideia 1 | Ideia 2 | Ideia 3 |
