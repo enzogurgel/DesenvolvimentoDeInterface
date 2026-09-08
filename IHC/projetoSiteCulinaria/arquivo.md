@@ -61,8 +61,10 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
        * Alteração de posicionamento dos anúncios;
        * Alterar o formato dos textos (aumentar eles para melhor visualização). 
     4. **Ideias do Ronald:**
+       * Colocar uma IA no site, para auxiliar nas receitas
+       * Sistema de avaliações de receitas, detalhado.
        *
-    5. **Ideias do Miguel:** 
+    6. **Ideias do Miguel:** 
        *
        <br><br>
 * **Organizando as Ideias:** <br>
