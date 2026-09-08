@@ -2,7 +2,7 @@
 ## Grupo: 
  * [Enzo 
 Gurgel](https://github.com/enzogurgel);
- * Ronald Neto;
+ * [Ronald Neto](https://github.com/Ronaldneto);
  * [Hiram
 Pessoa](https://github.com/hiramcarneiro-cmd);
  * [Miguel Silva](https://github.com/miguelss-s)
