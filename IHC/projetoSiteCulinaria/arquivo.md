@@ -9,6 +9,8 @@ Pessoa](https://github.com/hiramcarneiro-cmd);
  * [César Augusto](https://github.com/cesargehre).
 ## Site Analisado:
 * [Tudo Gostoso](https://www.tudogostoso.com.br/)
+## Slide Apresentação:
+* [Slide](https://www.canva.com/design/DAHVQYLwyK8/qpP7rvCjdcr9mykf8hqhFg/edit)
 ## Entregáveis:
 * **Retomem o Problema:**
   1. **Qual é a falha, dificuldade ou oportunidade identificada?**<br>
