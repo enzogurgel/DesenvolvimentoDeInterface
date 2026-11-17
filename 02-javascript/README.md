@@ -7,5 +7,4 @@
 | aula-01 | [calculadora-media](aula-01/calculadora-media/) | Calculadora de Média |
 | aula-02 | [calculadora-media](aula-02/calculadora-media/) | Calculadora de média |
 | aula-02 | [verificador-de-idade](aula-02/verificador-de-idade/) | Verificador de idade |
-
-Cada aula tem uma pasta `evidencias/` com os prints dos projetos (a da aula-02 ainda está vazia).
+| aula-02 | [exercicios-basicos2](aula-02/exercicios-basicos2/) | Exercícios básicos (`exercicios-basicos2.js`) |
